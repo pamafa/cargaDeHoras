@@ -1,3 +1,3 @@
-# Mi primer proyecto Python
+# Mi primer proyecto Python (Desktop)
 
-## Compara un archivo excel con un csv, y devuelve las diferencias.
+### Compara un archivo excel con un csv, y devuelve las diferencias.
